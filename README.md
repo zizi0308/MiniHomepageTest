@@ -5,3 +5,6 @@
 
 ## 푸터 추가
 - footer.md 추가
+
+## 서치 추가
+- search.md 추가
